@@ -29,3 +29,8 @@
         </li>
 </ul>
 
+## Project Imgs
+
+![Screen 1](public/img/screens/scr1.png)
+![Screen 2](public/img/screens/scr2.png)
+![Screen 3](public/img/screens/scr3.png)
